@@ -2,7 +2,7 @@
     "users": [
                     {
                         "id": 19,
-                        "ISLOGGEDIN": true,
+                        "ISLOGGEDIN": false,
                         "age": 26,
                         "name": "Marylou Meyers",
                         "gender": "female",
@@ -10,11 +10,11 @@
                         "email": "maryloumeyers@vicon.com",
                         "phone": "+234 (804) 520-3808",
                         "address": "25 Melba Court, Kilbourne, Indiana, 477",
-                        "thumbnail_url": "https://randomuser.me/api/portraits/med/men/2.jpg"
+                        "thumbnail_url": "https://randomuser.me/api/portraits/med/women/2.jpg"
                     },
                     {
                         "id": 25,
-                        "ISLOGGEDIN": true,
+                        "ISLOGGEDIN": false,
                         "age": 20,
                         "name": "Shawn Shaffer",
                         "gender": "female",
@@ -22,7 +22,7 @@
                         "email": "shawnshaffer@vicon.com",
                         "phone": "+234 (870) 561-3519",
                         "address": "6 Cornelia Street, Wiscon, Colorado, 171",
-                        "thumbnail_url": " https://randomuser.me/api/portraits/med/men/37.jpg"
+                        "thumbnail_url": " https://randomuser.me/api/portraits/med/women/37.jpg"
                     },
                     {
                         "id": 9,
@@ -34,11 +34,11 @@
                         "email": "bryanhenderson@vicon.com",
                         "phone": "+234 (890) 522-3215",
                         "address": "20 Bank Street, Derwood, Wisconsin, 620",
-                        "thumbnail_url": "https://randomuser.me/api/portraits/med/men/29.jpg"
+                        "thumbnail_url": "https://randomuser.me/api/portraits/med/women/29.jpg"
                     },
                       {
                     "id": 27,
-                    "ISLOGGEDIN": true,
+                    "ISLOGGEDIN": false,
                     "age": 22,
                     "name": "Doris Clements",
                     "gender": "female",
@@ -46,11 +46,11 @@
                     "email": "dorisclements@vicon.com",
                     "phone": "+234 (857) 408-3662",
                     "address": "30 Folsom Place, Waukeenah, Puerto Rico, 508",
-                    "thumbnail_url": "https://randomuser.me/api/portraits/med/men/5.jpg "
+                    "thumbnail_url": "https://randomuser.me/api/portraits/med/women/5.jpg "
                 },
                   {
                     "id": 27,
-                    "ISLOGGEDIN": true,
+                    "ISLOGGEDIN": false,
                     "age": 25,
                     "name": "Martinez Crane",
                     "gender": "male",
