@@ -1,0 +1,15 @@
+{
+  "name": "classroomserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/darothub/classroomserver.git",
+  "author": "darothub <darotudeen@gmail.com>",
+  "license": "MIT",
+    "scripts": {
+    "start": "npx json-server --watch db.json -p 3000 -d 2000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
