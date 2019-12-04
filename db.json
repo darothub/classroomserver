@@ -1,65 +1,174 @@
 {
-    "users": [
-                    {
-                        "id": 19,
-                        "ISLOGGEDIN": false,
-                        "age": 26,
-                        "name": "Marylou Meyers",
-                        "gender": "female",
-                        "stack": "Android",
-                        "email": "maryloumeyers@vicon.com",
-                        "phone": "+234 (804) 520-3808",
-                        "address": "25 Melba Court, Kilbourne, Indiana, 477",
-                        "thumbnail_url": "https://randomuser.me/api/portraits/med/women/2.jpg"
-                    },
-                    {
-                        "id": 25,
-                        "ISLOGGEDIN": false,
-                        "age": 20,
-                        "name": "Shawn Shaffer",
-                        "gender": "female",
-                        "stack": "python",
-                        "email": "shawnshaffer@vicon.com",
-                        "phone": "+234 (870) 561-3519",
-                        "address": "6 Cornelia Street, Wiscon, Colorado, 171",
-                        "thumbnail_url": " https://randomuser.me/api/portraits/med/women/37.jpg"
-                    },
-                    {
-                        "id": 9,
-                        "ISLOGGEDIN": false,
-                        "age": 23,
-                        "name": "Bryan Henderson",
-                        "gender": "male",
-                        "stack": "Java",
-                        "email": "bryanhenderson@vicon.com",
-                        "phone": "+234 (890) 522-3215",
-                        "address": "20 Bank Street, Derwood, Wisconsin, 620",
-                        "thumbnail_url": "https://randomuser.me/api/portraits/med/women/29.jpg"
-                    },
-                      {
-                    "id": 27,
-                    "ISLOGGEDIN": false,
-                    "age": 22,
-                    "name": "Doris Clements",
-                    "gender": "female",
-                    "stack": "Java",
-                    "email": "dorisclements@vicon.com",
-                    "phone": "+234 (857) 408-3662",
-                    "address": "30 Folsom Place, Waukeenah, Puerto Rico, 508",
-                    "thumbnail_url": "https://randomuser.me/api/portraits/med/women/5.jpg "
-                },
-                  {
-                    "id": 27,
-                    "ISLOGGEDIN": false,
-                    "age": 25,
-                    "name": "Martinez Crane",
-                    "gender": "male",
-                    "stack": "Java",
-                    "email": "martinezcrane@vicon.com",
-                    "phone": "+234 (974) 442-3726",
-                    "address": "23 Ludlam Place, Coral, Arkansas, 965",
-                    "thumbnail_url": " https://randomuser.me/api/portraits/med/men/5.jpg"
-                }
-    ]
-
+  "users": [
+    {
+      "id": 19,
+      "ISLOGGEDIN": false,
+      "age": 26,
+      "name": "Marylou Meyers",
+      "gender": "female",
+      "stack": "Android",
+      "email": "maryloumeyers@vicon.com",
+      "phone": "+234 (804) 520-3808",
+      "address": "25 Melba Court, Kilbourne, Indiana, 477",
+      "thumbnail_url": "https://randomuser.me/api/portraits/med/women/2.jpg"
+    },
+    {
+      "id": 25,
+      "ISLOGGEDIN": false,
+      "age": 20,
+      "name": "Shawn Shaffer",
+      "gender": "female",
+      "stack": "python",
+      "email": "shawnshaffer@vicon.com",
+      "phone": "+234 (870) 561-3519",
+      "address": "6 Cornelia Street, Wiscon, Colorado, 171",
+      "thumbnail_url": " https://randomuser.me/api/portraits/med/women/37.jpg"
+    },
+    {
+      "id": 9,
+      "ISLOGGEDIN": false,
+      "age": 23,
+      "name": "Bryan Henderson",
+      "gender": "male",
+      "stack": "Java",
+      "email": "bryanhenderson@vicon.com",
+      "phone": "+234 (890) 522-3215",
+      "address": "20 Bank Street, Derwood, Wisconsin, 620",
+      "thumbnail_url": "https://randomuser.me/api/portraits/med/women/29.jpg"
+    },
+    {
+      "id": 27,
+      "ISLOGGEDIN": false,
+      "age": 22,
+      "name": "Doris Clements",
+      "gender": "female",
+      "stack": "Java",
+      "email": "dorisclements@vicon.com",
+      "phone": "+234 (857) 408-3662",
+      "address": "30 Folsom Place, Waukeenah, Puerto Rico, 508",
+      "thumbnail_url": "https://randomuser.me/api/portraits/med/women/5.jpg "
+    },
+    {
+      "id": 27,
+      "ISLOGGEDIN": false,
+      "age": 25,
+      "name": "Martinez Crane",
+      "gender": "male",
+      "stack": "Java",
+      "email": "martinezcrane@vicon.com",
+      "phone": "+234 (974) 442-3726",
+      "address": "23 Ludlam Place, Coral, Arkansas, 965",
+      "thumbnail_url": " https://randomuser.me/api/portraits/med/men/5.jpg"
+    }
+  ],
+  "articles": [
+    {
+      "id": "5de7be35dc4e7ab893303710",
+      "title": "fundamentals of JavaScript",
+      "url": "https://medium.com/@carlosbf/sherlock-and-the-valid-string-solution-8611ecc9e0d5",
+      "author":{
+          "first":"John",
+          "last": "Doe"
+      }
+    },
+    {
+      "id": "5de7ba94d1a2f3f19174a2c8",
+      "title": "Id est pariatur amet ut ea pariatur duis aute. Duis dolore qui nostrud cupidatat.",
+      "url": "https://medium.com/@carlosbf/sherlock-and-the-valid-string-solution-8611ecc9e0d5",
+      "author": {
+        "first": "Castillo",
+        "last": "Knight"
+      }
+    },
+    {
+        "id": "5de7bb689d2abae6993ba93c",
+        "title": "Minim dolore cupidatat laboris sint ut in sunt commodo elit est ut occaecat. Amet magna consequat et voluptate duis Lorem non ad.",
+        "picture": "http://placehold.it/32x32",
+        "author": {
+           "first": "Kimberly",
+           "last": "Combs"
+        }
+     },
+     {
+        "id": "5de7bb7a95358000b7cd3389",
+        "title": "Commodo dolore voluptate duis ullamco eiusmod ullamco et sunt tempor. Velit nisi sunt et labore tempor occaecat in mollit nisi eu.",
+        "picture": "http://placehold.it/32x32",
+        "author": {
+           "first": "Pat",
+           "last": "Leblanc"
+        }
+     },
+     {
+        "id": "5de7bb91e8ccb95add01ffd7",
+        "title": "Amet pariatur ad officia quis tempor occaecat eu mollit occaecat minim. Minim ad tempor fugiat consectetur aute nulla anim ullamco do excepteur sint.",
+        "picture": "http://placehold.it/32x32",
+        "author": {
+           "first": "Cote",
+           "last": "Daniels"
+        }
+     },
+     {
+        "id": "5de7bbe0cf9665bdd94ef6e1",
+        "title": "Consectetur est nostrud laboris reprehenderit. Nostrud magna ut ea qui sunt tempor laboris veniam anim irure eu aute reprehenderit officia.",
+        "picture": "http://placehold.it/32x32",
+        "author": {
+           "first": "Deena",
+           "last": "Manning"
+        }
+     },
+     {
+        "id": "5de7bbfa30f1495bf2265cc2",
+        "title": "Nulla ut officia id qui labore aliqua dolor mollit mollit sit fugiat fugiat sunt. Laboris consequat minim enim ad.",
+        "picture": "http://placehold.it/32x32",
+        "author": {
+           "first": "Adeline",
+           "last": "Lewis"
+        }
+     },
+     {
+        "id": "5de7bc0dd405bb3db9d99f38",
+        "title": "Velit dolor quis consectetur minim enim deserunt eiusmod elit exercitation commodo irure in anim. Ad Lorem non tempor aute Lorem dolore.",
+        "picture": "http://placehold.it/32x32",
+        "author": {
+           "first": "Leann",
+           "last": "Decker"
+        }
+     },
+     {
+        "id": "5de7bc5f73eec1a0b087999d",
+        "title": "Consectetur cillum cillum voluptate non voluptate tempor sint mollit commodo aliqua consequat non ipsum. Exercitation non ipsum est duis sunt et dolore eu exercitation non occaecat ut.",
+        "picture": "http://placehold.it/32x32",
+        "author": {
+           "first": "Marjorie",
+           "last": "Sweet"
+        }
+     },
+     {
+        "id": "5de7bc76a5b145d10aa7ce45",
+        "title": "Irure consectetur enim est sint ullamco Lorem sint incididunt ad non pariatur dolor. Occaecat voluptate id occaecat reprehenderit ex non ipsum anim ex tempor sunt anim eu.",
+        "picture": "http://placehold.it/32x32",
+        "author": {
+           "first": "Marianne",
+           "last": "Browning"
+        }
+     },
+     {
+        "id": "5de7bc8494acce83f25b7e14",
+        "title": "Esse cillum sint incididunt reprehenderit. Aliqua minim do fugiat sit deserunt ex aliqua velit exercitation eu qui.",
+        "picture": "http://placehold.it/32x32",
+        "author": {
+           "first": "Bell",
+           "last": "Owen"
+        }
+     },
+     {
+        "id": "5de7bde14d1c4f0a417e0bd2",
+        "title": "Cupidatat consectetur labore exercitation fugiat pariatur id id excepteur enim Lorem magna Lorem aliqua. Consequat ullamco pariatur aliqua enim aliquip labore exercitation officia esse magna laboris officia dolor sunt.",
+        "picture": "http://placehold.it/32x32",
+        "author": {
+           "first": "Miriam",
+           "last": "Garner"
+        }
+     }
+  ]
 }
